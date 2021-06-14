@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DivyaKeshri22
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java program
-- 📫 How to reach me -->insta-@divyakeshri22
+- 📫 How to reach me -->insta-@divyakeshri22,Twitter-->@divyakeshri22
 
 <!---
 DivyaKeshri22/DivyaKeshri22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
